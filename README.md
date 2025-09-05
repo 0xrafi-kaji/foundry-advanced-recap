@@ -16,8 +16,8 @@ Each module has its own folder with notes, code snippets, and key learnings.
 
 ## 🛠️ Usage
 - Navigate into `modules/<module-name>/README.md`
-- Fill in your notes for each module
-- Commit changes as you progress
+- You will find notes for each module
+- And all the code I wrote for each module
 
 ## 📂 Templates
 - Use `templates/note-template.md` to maintain a consistent style
